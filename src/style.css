@@ -1,0 +1,51 @@
+body,
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: wheat;
+    background-color: #373737;
+}
+
+.form {
+    position: relative;
+    --number1: 1;
+    --number2: 1;
+    --item-width: 50px;
+}
+
+.form:has(select.choice option[value="+"]:checked) {
+    --result: calc(var(--number1) + var(--number2));
+}
+
+.form:has(select.choice option[value="-"]:checked) {
+    --result: calc(var(--number1) - var(--number2));
+}
+
+.form:has(select.choice option[value="*"]:checked) {
+    --result: calc(var(--number1) * var(--number2));
+}
+
+.form:has(select.choice option[value="/"]:checked) {
+    --result: calc(var(--number1) / var(--number2));
+}
+
+.wrapper .answers {
+    display: flex;
+    gap: var(--item-width);
+    width: var(--item-width);
+    overflow: hidden;
+}
+
+.wrapper .answers .answer {
+    width: 0;
+}
+
+.wrapper .answers .answer:first-child {
+    margin-left: calc((var(--result) - 1) * var(--item-width) * -1);
+}

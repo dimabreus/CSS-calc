@@ -1,0 +1,803 @@
+/* First Number */
+
+.form:has(select.first-number option[value="1"]:checked) {
+    --number1: 1;
+}
+
+.form:has(select.first-number option[value="2"]:checked) {
+    --number1: 2;
+}
+
+.form:has(select.first-number option[value="3"]:checked) {
+    --number1: 3;
+}
+
+.form:has(select.first-number option[value="4"]:checked) {
+    --number1: 4;
+}
+    
+.form:has(select.first-number option[value="5"]:checked) {
+    --number1: 5;
+}
+
+.form:has(select.first-number option[value="6"]:checked) {
+    --number1: 6;
+}
+
+.form:has(select.first-number option[value="7"]:checked) {
+    --number1: 7;
+}
+
+.form:has(select.first-number option[value="8"]:checked) {
+    --number1: 8;
+}
+
+.form:has(select.first-number option[value="9"]:checked) {
+    --number1: 9;
+}
+
+.form:has(select.first-number option[value="10"]:checked) {
+    --number1: 10;
+}
+
+.form:has(select.first-number option[value="11"]:checked) {
+    --number1: 11;
+}
+
+.form:has(select.first-number option[value="12"]:checked) {
+    --number1: 12;
+}
+
+.form:has(select.first-number option[value="13"]:checked) {
+    --number1: 13;
+}
+
+.form:has(select.first-number option[value="14"]:checked) {
+    --number1: 14;
+}
+
+.form:has(select.first-number option[value="15"]:checked) {
+    --number1: 15;
+}
+
+.form:has(select.first-number option[value="16"]:checked) {
+    --number1: 16;
+}
+
+.form:has(select.first-number option[value="17"]:checked) {
+    --number1: 17;
+}
+
+.form:has(select.first-number option[value="18"]:checked) {
+    --number1: 18;
+}
+
+.form:has(select.first-number option[value="19"]:checked) {
+    --number1: 19;
+}
+
+.form:has(select.first-number option[value="20"]:checked) {
+    --number1: 20;
+}
+
+.form:has(select.first-number option[value="21"]:checked) {
+    --number1: 21;
+}
+
+.form:has(select.first-number option[value="22"]:checked) {
+    --number1: 22;
+}
+
+.form:has(select.first-number option[value="23"]:checked) {
+    --number1: 23;
+}
+
+.form:has(select.first-number option[value="24"]:checked) {
+    --number1: 24;
+}
+
+.form:has(select.first-number option[value="25"]:checked) {
+    --number1: 25;
+}
+
+.form:has(select.first-number option[value="26"]:checked) {
+    --number1: 26;
+}
+
+.form:has(select.first-number option[value="27"]:checked) {
+    --number1: 27;
+}
+
+.form:has(select.first-number option[value="28"]:checked) {
+    --number1: 28;
+}
+
+.form:has(select.first-number option[value="29"]:checked) {
+    --number1: 29;
+}
+
+.form:has(select.first-number option[value="30"]:checked) {
+    --number1: 30;
+}
+
+.form:has(select.first-number option[value="31"]:checked) {
+    --number1: 31;
+}
+
+.form:has(select.first-number option[value="32"]:checked) {
+    --number1: 32;
+}
+
+.form:has(select.first-number option[value="33"]:checked) {
+    --number1: 33;
+}
+
+.form:has(select.first-number option[value="34"]:checked) {
+    --number1: 34;
+}
+
+.form:has(select.first-number option[value="35"]:checked) {
+    --number1: 35;
+}
+
+.form:has(select.first-number option[value="36"]:checked) {
+    --number1: 36;
+}
+
+.form:has(select.first-number option[value="37"]:checked) {
+    --number1: 37;
+}
+
+.form:has(select.first-number option[value="38"]:checked) {
+    --number1: 38;
+}
+
+.form:has(select.first-number option[value="39"]:checked) {
+    --number1: 39;
+}
+
+.form:has(select.first-number option[value="40"]:checked) {
+    --number1: 40;
+}
+
+.form:has(select.first-number option[value="41"]:checked) {
+    --number1: 41;
+}
+
+.form:has(select.first-number option[value="42"]:checked) {
+    --number1: 42;
+}
+
+.form:has(select.first-number option[value="43"]:checked) {
+    --number1: 43;
+}
+
+.form:has(select.first-number option[value="44"]:checked) {
+    --number1: 44;
+}
+
+.form:has(select.first-number option[value="45"]:checked) {
+    --number1: 45;
+}
+
+.form:has(select.first-number option[value="46"]:checked) {
+    --number1: 46;
+}
+
+.form:has(select.first-number option[value="47"]:checked) {
+    --number1: 47;
+}
+
+.form:has(select.first-number option[value="48"]:checked) {
+    --number1: 48;
+}
+
+.form:has(select.first-number option[value="49"]:checked) {
+    --number1: 49;
+}
+
+.form:has(select.first-number option[value="50"]:checked) {
+    --number1: 50;
+}
+
+.form:has(select.first-number option[value="51"]:checked) {
+    --number1: 51;
+}
+
+.form:has(select.first-number option[value="52"]:checked) {
+    --number1: 52;
+}
+
+.form:has(select.first-number option[value="53"]:checked) {
+    --number1: 53;
+}
+
+.form:has(select.first-number option[value="54"]:checked) {
+    --number1: 54;
+}
+
+.form:has(select.first-number option[value="55"]:checked) {
+    --number1: 55;
+}
+
+.form:has(select.first-number option[value="56"]:checked) {
+    --number1: 56;
+}
+
+.form:has(select.first-number option[value="57"]:checked) {
+    --number1: 57;
+}
+
+.form:has(select.first-number option[value="58"]:checked) {
+    --number1: 58;
+}
+
+.form:has(select.first-number option[value="59"]:checked) {
+    --number1: 59;
+}
+
+.form:has(select.first-number option[value="60"]:checked) {
+    --number1: 60;
+}
+
+.form:has(select.first-number option[value="61"]:checked) {
+    --number1: 61;
+}
+
+.form:has(select.first-number option[value="62"]:checked) {
+    --number1: 62;
+}
+
+.form:has(select.first-number option[value="63"]:checked) {
+    --number1: 63;
+}
+
+.form:has(select.first-number option[value="64"]:checked) {
+    --number1: 64;
+}
+
+.form:has(select.first-number option[value="65"]:checked) {
+    --number1: 65;
+}
+
+.form:has(select.first-number option[value="66"]:checked) {
+    --number1: 66;
+}
+
+.form:has(select.first-number option[value="67"]:checked) {
+    --number1: 67;
+}
+
+.form:has(select.first-number option[value="68"]:checked) {
+    --number1: 68;
+}
+
+.form:has(select.first-number option[value="69"]:checked) {
+    --number1: 69;
+}
+
+.form:has(select.first-number option[value="70"]:checked) {
+    --number1: 70;
+}
+
+.form:has(select.first-number option[value="71"]:checked) {
+    --number1: 71;
+}
+
+.form:has(select.first-number option[value="72"]:checked) {
+    --number1: 72;
+}
+
+.form:has(select.first-number option[value="73"]:checked) {
+    --number1: 73;
+}
+
+.form:has(select.first-number option[value="74"]:checked) {
+    --number1: 74;
+}
+
+.form:has(select.first-number option[value="75"]:checked) {
+    --number1: 75;
+}
+
+.form:has(select.first-number option[value="76"]:checked) {
+    --number1: 76;
+}
+
+.form:has(select.first-number option[value="77"]:checked) {
+    --number1: 77;
+}
+
+.form:has(select.first-number option[value="78"]:checked) {
+    --number1: 78;
+}
+
+.form:has(select.first-number option[value="79"]:checked) {
+    --number1: 79;
+}
+
+.form:has(select.first-number option[value="80"]:checked) {
+    --number1: 80;
+}
+
+.form:has(select.first-number option[value="81"]:checked) {
+    --number1: 81;
+}
+
+.form:has(select.first-number option[value="82"]:checked) {
+    --number1: 82;
+}
+
+.form:has(select.first-number option[value="83"]:checked) {
+    --number1: 83;
+}
+
+.form:has(select.first-number option[value="84"]:checked) {
+    --number1: 84;
+}
+
+.form:has(select.first-number option[value="85"]:checked) {
+    --number1: 85;
+}
+
+.form:has(select.first-number option[value="86"]:checked) {
+    --number1: 86;
+}
+
+.form:has(select.first-number option[value="87"]:checked) {
+    --number1: 87;
+}
+
+.form:has(select.first-number option[value="88"]:checked) {
+    --number1: 88;
+}
+
+.form:has(select.first-number option[value="89"]:checked) {
+    --number1: 89;
+}
+
+.form:has(select.first-number option[value="90"]:checked) {
+    --number1: 90;
+}
+
+.form:has(select.first-number option[value="91"]:checked) {
+    --number1: 91;
+}
+
+.form:has(select.first-number option[value="92"]:checked) {
+    --number1: 92;
+}
+
+.form:has(select.first-number option[value="93"]:checked) {
+    --number1: 93;
+}
+
+.form:has(select.first-number option[value="94"]:checked) {
+    --number1: 94;
+}
+
+.form:has(select.first-number option[value="95"]:checked) {
+    --number1: 95;
+}
+
+.form:has(select.first-number option[value="96"]:checked) {
+    --number1: 96;
+}
+
+.form:has(select.first-number option[value="97"]:checked) {
+    --number1: 97;
+}
+
+.form:has(select.first-number option[value="98"]:checked) {
+    --number1: 98;
+}
+
+.form:has(select.first-number option[value="99"]:checked) {
+    --number1: 99;
+}
+
+.form:has(select.first-number option[value="100"]:checked) {
+    --number1: 100;
+}
+
+/* Second Number */
+
+.form:has(select.second-number option[value="1"]:checked) {
+    --number2: 1;
+}
+
+.form:has(select.second-number option[value="2"]:checked) {
+    --number2: 2;
+}
+
+.form:has(select.second-number option[value="3"]:checked) {
+    --number2: 3;
+}
+
+.form:has(select.second-number option[value="4"]:checked) {
+    --number2: 4;
+}
+
+.form:has(select.second-number option[value="5"]:checked) {
+    --number2: 5;
+}
+
+.form:has(select.second-number option[value="6"]:checked) {
+    --number2: 6;
+}
+
+.form:has(select.second-number option[value="7"]:checked) {
+    --number2: 7;
+}
+
+.form:has(select.second-number option[value="8"]:checked) {
+    --number2: 8;
+}
+
+.form:has(select.second-number option[value="9"]:checked) {
+    --number2: 9;
+}
+
+.form:has(select.second-number option[value="10"]:checked) {
+    --number2: 10;
+}
+
+.form:has(select.second-number option[value="11"]:checked) {
+    --number2: 11;
+}
+
+.form:has(select.second-number option[value="12"]:checked) {
+    --number2: 12;
+}
+
+.form:has(select.second-number option[value="13"]:checked) {
+    --number2: 13;
+}
+
+.form:has(select.second-number option[value="14"]:checked) {
+    --number2: 14;
+}
+
+.form:has(select.second-number option[value="15"]:checked) {
+    --number2: 15;
+}
+
+.form:has(select.second-number option[value="16"]:checked) {
+    --number2: 16;
+}
+
+.form:has(select.second-number option[value="17"]:checked) {
+    --number2: 17;
+}
+
+.form:has(select.second-number option[value="18"]:checked) {
+    --number2: 18;
+}
+
+.form:has(select.second-number option[value="19"]:checked) {
+    --number2: 19;
+}
+
+.form:has(select.second-number option[value="20"]:checked) {
+    --number2: 20;
+}
+
+.form:has(select.second-number option[value="21"]:checked) {
+    --number2: 21;
+}
+
+.form:has(select.second-number option[value="22"]:checked) {
+    --number2: 22;
+}
+
+.form:has(select.second-number option[value="23"]:checked) {
+    --number2: 23;
+}
+
+.form:has(select.second-number option[value="24"]:checked) {
+    --number2: 24;
+}
+
+.form:has(select.second-number option[value="25"]:checked) {
+    --number2: 25;
+}
+
+.form:has(select.second-number option[value="26"]:checked) {
+    --number2: 26;
+}
+
+.form:has(select.second-number option[value="27"]:checked) {
+    --number2: 27;
+}
+
+.form:has(select.second-number option[value="28"]:checked) {
+    --number2: 28;
+}
+
+.form:has(select.second-number option[value="29"]:checked) {
+    --number2: 29;
+}
+
+.form:has(select.second-number option[value="30"]:checked) {
+    --number2: 30;
+}
+
+.form:has(select.second-number option[value="31"]:checked) {
+    --number2: 31;
+}
+
+.form:has(select.second-number option[value="32"]:checked) {
+    --number2: 32;
+}
+
+.form:has(select.second-number option[value="33"]:checked) {
+    --number2: 33;
+}
+
+.form:has(select.second-number option[value="34"]:checked) {
+    --number2: 34;
+}
+
+.form:has(select.second-number option[value="35"]:checked) {
+    --number2: 35;
+}
+
+.form:has(select.second-number option[value="36"]:checked) {
+    --number2: 36;
+}
+
+.form:has(select.second-number option[value="37"]:checked) {
+    --number2: 37;
+}
+
+.form:has(select.second-number option[value="38"]:checked) {
+    --number2: 38;
+}
+
+.form:has(select.second-number option[value="39"]:checked) {
+    --number2: 39;
+}
+
+.form:has(select.second-number option[value="40"]:checked) {
+    --number2: 40;
+}
+
+.form:has(select.second-number option[value="41"]:checked) {
+    --number2: 41;
+}
+
+.form:has(select.second-number option[value="42"]:checked) {
+    --number2: 42;
+}
+
+.form:has(select.second-number option[value="43"]:checked) {
+    --number2: 43;
+}
+
+.form:has(select.second-number option[value="44"]:checked) {
+    --number2: 44;
+}
+
+.form:has(select.second-number option[value="45"]:checked) {
+    --number2: 45;
+}
+
+.form:has(select.second-number option[value="46"]:checked) {
+    --number2: 46;
+}
+
+.form:has(select.second-number option[value="47"]:checked) {
+    --number2: 47;
+}
+
+.form:has(select.second-number option[value="48"]:checked) {
+    --number2: 48;
+}
+
+.form:has(select.second-number option[value="49"]:checked) {
+    --number2: 49;
+}
+
+.form:has(select.second-number option[value="50"]:checked) {
+    --number2: 50;
+}
+
+.form:has(select.second-number option[value="51"]:checked) {
+    --number2: 51;
+}
+
+.form:has(select.second-number option[value="52"]:checked) {
+    --number2: 52;
+}
+
+.form:has(select.second-number option[value="53"]:checked) {
+    --number2: 53;
+}
+
+.form:has(select.second-number option[value="54"]:checked) {
+    --number2: 54;
+}
+
+.form:has(select.second-number option[value="55"]:checked) {
+    --number2: 55;
+}
+
+.form:has(select.second-number option[value="56"]:checked) {
+    --number2: 56;
+}
+
+.form:has(select.second-number option[value="57"]:checked) {
+    --number2: 57;
+}
+
+.form:has(select.second-number option[value="58"]:checked) {
+    --number2: 58;
+}
+
+.form:has(select.second-number option[value="59"]:checked) {
+    --number2: 59;
+}
+
+.form:has(select.second-number option[value="60"]:checked) {
+    --number2: 60;
+}
+
+.form:has(select.second-number option[value="61"]:checked) {
+    --number2: 61;
+}
+
+.form:has(select.second-number option[value="62"]:checked) {
+    --number2: 62;
+}
+
+.form:has(select.second-number option[value="63"]:checked) {
+    --number2: 63;
+}
+
+.form:has(select.second-number option[value="64"]:checked) {
+    --number2: 64;
+}
+
+.form:has(select.second-number option[value="65"]:checked) {
+    --number2: 65;
+}
+
+.form:has(select.second-number option[value="66"]:checked) {
+    --number2: 66;
+}
+
+.form:has(select.second-number option[value="67"]:checked) {
+    --number2: 67;
+}
+
+.form:has(select.second-number option[value="68"]:checked) {
+    --number2: 68;
+}
+
+.form:has(select.second-number option[value="69"]:checked) {
+    --number2: 69;
+}
+
+.form:has(select.second-number option[value="70"]:checked) {
+    --number2: 70;
+}
+
+.form:has(select.second-number option[value="71"]:checked) {
+    --number2: 71;
+}
+
+.form:has(select.second-number option[value="72"]:checked) {
+    --number2: 72;
+}
+
+.form:has(select.second-number option[value="73"]:checked) {
+    --number2: 73;
+}
+
+.form:has(select.second-number option[value="74"]:checked) {
+    --number2: 74;
+}
+
+.form:has(select.second-number option[value="75"]:checked) {
+    --number2: 75;
+}
+
+.form:has(select.second-number option[value="76"]:checked) {
+    --number2: 76;
+}
+
+.form:has(select.second-number option[value="77"]:checked) {
+    --number2: 77;
+}
+
+.form:has(select.second-number option[value="78"]:checked) {
+    --number2: 78;
+}
+
+.form:has(select.second-number option[value="79"]:checked) {
+    --number2: 79;
+}
+
+.form:has(select.second-number option[value="80"]:checked) {
+    --number2: 80;
+}
+
+.form:has(select.second-number option[value="81"]:checked) {
+    --number2: 81;
+}
+
+.form:has(select.second-number option[value="82"]:checked) {
+    --number2: 82;
+}
+
+.form:has(select.second-number option[value="83"]:checked) {
+    --number2: 83;
+}
+
+.form:has(select.second-number option[value="84"]:checked) {
+    --number2: 84;
+}
+
+.form:has(select.second-number option[value="85"]:checked) {
+    --number2: 85;
+}
+
+.form:has(select.second-number option[value="86"]:checked) {
+    --number2: 86;
+}
+
+.form:has(select.second-number option[value="87"]:checked) {
+    --number2: 87;
+}
+
+.form:has(select.second-number option[value="88"]:checked) {
+    --number2: 88;
+}
+
+.form:has(select.second-number option[value="89"]:checked) {
+    --number2: 89;
+}
+
+.form:has(select.second-number option[value="90"]:checked) {
+    --number2: 90;
+}
+
+.form:has(select.second-number option[value="91"]:checked) {
+    --number2: 91;
+}
+
+.form:has(select.second-number option[value="92"]:checked) {
+    --number2: 92;
+}
+
+.form:has(select.second-number option[value="93"]:checked) {
+    --number2: 93;
+}
+
+.form:has(select.second-number option[value="94"]:checked) {
+    --number2: 94;
+}
+
+.form:has(select.second-number option[value="95"]:checked) {
+    --number2: 95;
+}
+
+.form:has(select.second-number option[value="96"]:checked) {
+    --number2: 96;
+}
+
+.form:has(select.second-number option[value="97"]:checked) {
+    --number2: 97;
+}
+
+.form:has(select.second-number option[value="98"]:checked) {
+    --number2: 98;
+}
+
+.form:has(select.second-number option[value="99"]:checked) {
+    --number2: 99;
+}
+
+.form:has(select.second-number option[value="100"]:checked) {
+    --number2: 100;
+}
